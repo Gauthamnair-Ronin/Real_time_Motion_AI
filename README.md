@@ -7,7 +7,7 @@ This project enables **real-time motion prediction** using **accelerometer and g
 
 ## 🏗️ System Architecture
 ```
-📂 motion-prediction-deployment/
+📂 Real_time_Motion_AI/
 │
 ├── 📂 backend/                     # FastAPI backend (hosted on Render)
 │   ├── main.py                     # FastAPI app with WebSockets
